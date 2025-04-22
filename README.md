@@ -2,7 +2,7 @@
 
 This is an unofficial application for the **Massachusetts Institute of Technology - OpenCourseWare (MIT OCW)**, developed by me as a side project.
 
-👉 [Download APK](https://your-download-link.com/your-app.apk)
+👉 [Download APK]([https://your-download-link.com/your-app.apk](https://github.com/Debkumar-Baksi/MIT-OCW-App/raw/refs/heads/main/mitocw.apk))
 
 ## 📌 About
 
